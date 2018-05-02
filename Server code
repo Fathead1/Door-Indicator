@@ -2,8 +2,8 @@
 #include <ESP8266WiFi.h>
 #include <Servo.h>
 
-const char* ssid = "Origin Broadband";
-const char* password = "pajero101";
+const char* ssid = "Your SSID";
+const char* password = "Your PASSWORD";
 
 const uint16_t port = 80;
 
